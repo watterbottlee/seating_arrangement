@@ -1,5 +1,6 @@
 import openpyxl
 
+print("program has started successfully")
 # Get branch name, total number of students, and starting roll number
 branch_name = input("Enter branch name (e.g. CSE): ")
 total_students = int(input("Enter total number of students: "))
